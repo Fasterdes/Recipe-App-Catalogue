@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resep Katalog</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_Dessert">Pencuci Mulut</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="txt_vegetarian">Penyuka Sayuran</string>
+    <string name="content_banner_image_food">Banner Image Food</string>
+    <string name="txt_garlic_butter_shrimp">Garlic Butter Shrimp</string>
+
+</resources>
